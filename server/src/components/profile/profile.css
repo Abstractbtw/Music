@@ -1,0 +1,10 @@
+
+
+
+.product{
+  margin-left: auto;
+  width: 75%;
+  background-color:rgb(255, 195, 127);
+  display: block;
+  z-index: 7;
+}

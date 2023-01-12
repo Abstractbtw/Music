@@ -1,0 +1,55 @@
+
+
+.newtrack{
+  height: 1500px;
+  font-family: Verdana, sans-serif;
+}
+
+.nav_bg{
+  height: 50px;
+  width: 100%;
+  z-index: 14;
+  background-color: #094FB9;
+  position: fixed;
+  margin-top: -50px;
+}
+
+.newtrack_header{
+  margin-top: 50px;
+  width: 100%;
+  height: 300px;
+  z-index: 10;
+  position: relative;
+}
+
+.newtrack_title{
+  color: white;
+  font-size: 45px;
+  margin-left: 25%;
+  line-height: 5em;
+}
+
+.newtrack_container{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.newtrack_main_text{
+  font-size: 20px;
+  color: gray;
+}
+
+.newtrack_main_input{
+  width: 50%;
+}
+
+.newtrack_space{
+  height: 30px;
+}
+
+.newtrack_bottom{
+  height: 500px;
+}

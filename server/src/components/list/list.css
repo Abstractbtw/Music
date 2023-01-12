@@ -1,0 +1,10 @@
+
+
+
+.list{
+  margin-left: auto;
+  width: 75%;
+  background-color:rgb(146, 127, 255);
+  display: block;
+  z-index: 7;
+}
